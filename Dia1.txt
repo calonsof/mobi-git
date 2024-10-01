@@ -2,3 +2,5 @@
 
 ## Dia 1
 - Sin novedad
+
+-Nota
