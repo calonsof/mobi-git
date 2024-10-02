@@ -2,5 +2,3 @@
 
 ## Dia 4
 - Nuevo avistamiento
-
-- Nota 2
